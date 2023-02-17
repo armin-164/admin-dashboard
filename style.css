@@ -25,13 +25,37 @@ body {
 .sidebar ul {
     list-style-type: none;
     padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    padding-left: 25px;
 }
 
 .sidebartitle {
     margin: 0;
     width: 300px;
-    padding: 10px 0 0 10px
+    padding: 10px 0 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
+
+.sidebarcontent > ul > li, .sidebarsettings > ul > li {
+    display: flex;
+    align-items: center; 
+    gap: 5px;
+}
+
+.sidebarcontent > ul > li > img, .sidebarsettings > ul > li > img {
+    padding-right: 15px;
+}
+
+
+.sidebar img {
+    filter: invert(87%) sepia(35%) saturate(2%) hue-rotate(16deg) brightness(111%) contrast(100%);
+}
+
 
 .topcontainer {
     grid-column: 2 / 3;
@@ -75,7 +99,7 @@ body {
     height: 30px;
 }
 
-#zoomedprofile {
+.zoomedprofile {
     height: 45px;
 }
 
@@ -99,3 +123,6 @@ body {
     font-weight: bold;
 }
 
+.card {
+    background-color: lightgray;
+}
