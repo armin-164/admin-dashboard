@@ -10,8 +10,8 @@ body {
 
 .dashboard-all {
     display: grid;
-    grid-template-columns: 1fr 3fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: max(250px) 10fr;
+    grid-template-rows: max(115px) 1fr;
 } 
 
 .sidebar {
@@ -123,6 +123,117 @@ body {
     font-weight: bold;
 }
 
-.card {
+.maincontainer {
+    grid-column: 2 / 3;
     background-color: lightgray;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: max(40px) 1fr;
+}
+
+.maincontainertitle {
+    padding: 0 0 10px 40px;
+}
+
+.maincontainertitle, .secondmaintitle {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+.cardcontainer {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 10px 0 40px 40px;
+}
+
+
+.card {
+    display: flex;
+    height: 120px;
+    width: 225px;
+    border-left: 8px solid blue;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: white;
+    flex-direction: column;
+    font-size: 10px;
+
+}
+
+.cardtitle {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+}
+
+
+
+.cardicons {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    gap: 15px
+}
+
+.rightcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+    padding-top: 5px;
+}
+
+.announcementtitle {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.thetext {
+    font-size: 10px;
+}
+
+.announcement-text {
+    border-bottom: 1px solid red;
+    font-size: 10px;
+}
+
+.announcement {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    height: 250px;
+}
+
+.trendingcontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.trendingtext p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.trendingtext > .role {
+    font-size: 12px;
+    opacity: 75%;
 }
