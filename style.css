@@ -129,15 +129,18 @@ body {
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: max(40px) 1fr;
+    box-shadow: 10px 5px 5px red;
 }
 
 .maincontainertitle {
     padding: 0 0 10px 40px;
 }
 
+
 .maincontainertitle, .secondmaintitle {
     font-size: 18px;
     font-weight: bold;
+    text-shadow: 1px 0 1px gray;
 }
 
 
@@ -153,15 +156,15 @@ body {
 
 
 .card {
-    display: flex;
     height: 120px;
     width: 225px;
     border-left: 8px solid blue;
     border-radius: 5px;
     padding: 20px;
     background-color: white;
-    flex-direction: column;
     font-size: 10px;
+    box-shadow: 0 1px 8px gray;
+
 
 }
 
@@ -184,24 +187,29 @@ body {
 .rightcontainer {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     grid-row: 2 / 3;
     grid-column: 2 / 3;
-    padding-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    gap: 40px;
 }
 
 .announcementtitle {
-    font-size: 15px;
+    font-size: 10pxs;
     font-weight: bold;
 }
 
-.thetext {
-    font-size: 10px;
-}
 
 .announcement-text {
     border-bottom: 1px solid red;
-    font-size: 10px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0 10px 0;
+}
+
+.announcement > .lastchildelement {
+    border: 0;
 }
 
 .announcement {
@@ -210,6 +218,16 @@ body {
     padding: 20px;
     width: 200px;
     height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    box-shadow: 0 1px 8px gray;
+
+}
+
+.announcement-text > p {
+    margin: 0;
 }
 
 .trendingcontainer {
@@ -220,6 +238,7 @@ body {
     padding: 20px;
     width: 200px;
     border-radius: 10px;
+    box-shadow: 0 1px 8px gray;
 }
 
 .row {
@@ -231,6 +250,7 @@ body {
 .trendingtext p {
     margin: 0;
     font-weight: bold;
+    font-size: 17px;
 }
 
 .trendingtext > .role {
