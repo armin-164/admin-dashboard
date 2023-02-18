@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg3838" viewBox="0 0 500 500" version="1.1">
+  <defs id="defs3840">
+    <radialGradient id="radialGradient4388" gradientUnits="userSpaceOnUse" cy="305.05" cx="221.46" gradientTransform="matrix(1.8547 -.73797 .41991 1.0553 -349.59 131.98)" r="257.83">
+      <stop id="stop4384" stop-color="#fff" offset="0"/>
+      <stop id="stop4386" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="layer1" transform="translate(0 -552.36)">
+    <rect id="rect4380" style="color:#000000" transform="translate(0 552.36)" height="506.14" width="513.65" y="-3.1388" x="-3.0038" fill="url(#radialGradient4388)"/>
+    <path id="path4660" d="m86.36 734.71c-3.611 66.58 63.19 90.86 120.9 90.86" stroke-dashoffset="60" stroke="#000" stroke-dasharray="6,12" stroke-width="6" fill="none"/>
+    <path id="path4660-8" d="m316.57 823.8c45.91-48.356 112.63-10.116 152.27 31.831" stroke="#000" stroke-dasharray="6,12" stroke-width="6" fill="none"/>
+    <path id="rect3848" style="color:#000000" d="m195.41 214.32c48.175 1.3084 98.194 0.40454 132.75 18.054-4.259 48.498-16.548 96.997-57.348 145.5-31.506 5.134-63.012 7.466-94.519-18.054 19.981-48.498 30.187-96.997 19.116-145.5z" transform="translate(0 552.36)" stroke="#000" stroke-width="2" fill="#117a88"/>
+    <path id="path3850" style="color:#000000" d="m183.08 746.27c-4.8311-42.555 13.274-97.858 68.305-117.66 78.218-28.146 113.41 85.297 113.41 85.297s-53.786 1.1919-80.238 5.5614c-34.518 5.7019-101.48 26.802-101.48 26.802z" stroke="#000" stroke-width="4.1725" fill="#117a88"/>
+    <path id="path3866" style="color:#000000" d="m317.65 102.37c0 24.677-20.005 44.682-44.682 44.682s-44.682-20.005-44.682-44.682 20.005-44.682 44.682-44.682 44.682 20.005 44.682 44.682z" transform="translate(18.023 547.11)" stroke="#000" stroke-width="2" fill="#fff"/>
+    <path id="path3868" style="color:#000000" d="m325.91 103.12c0 6.4285-5.2113 11.64-11.64 11.64-6.4285 0-11.64-5.2113-11.64-11.64 0-6.4285 5.2113-11.64 11.64-11.64 6.4285 0 11.64 5.2113 11.64 11.64z" transform="translate(0 552.36)" stroke="#000" stroke-width="2"/>
+    <path id="path4415" style="color:#000000" d="m219.62 778.5c5.9042 42.722-3.5658 85.963-18.938 125.69 20.67 13.042 46.969 14.846 70.5 9.4375 28.477-34.855 45.557-78.637 49.188-123.38-32.042-12.043-66.992-11.055-100.81-12.25l0.0625 0.5z" stroke="#000" stroke-width="2" fill="#06a2b6"/>
+    <path id="path4450" style="color:#000000" d="m254.78 806.47c-0.56721 26.892-5.8246 53.423-13.375 79.156 6.4839 0.59223 14.243 1.7652 20.12-0.68301 16.26-22.609 27.876-48.866 32.911-76.317-13.059-2.3909-26.316-3.5686-39.625-3.6875l-0.0204 0.99979-0.0109 0.53146z" stroke="#000" stroke-width="2" fill="#00e3ff"/>
+    <path id="path4652" style="color:#000000" d="m156.48 973.48c-7.6556 7.2701-26.631-0.28307-42.383-16.87-15.755-16.59-22.318-35.93-14.663-43.2 7.6556-7.27 12.769 13.447 28.521 30.034s36.177 22.764 28.521 30.034z" stroke="#000" stroke-width="2" fill="#117a88"/>
+    <path id="path4654" style="color:#000000" d="m290.99 447.96c0 9.971-20.208 18.054-45.135 18.054-24.928 0-45.135-12.331-45.135-22.302s20.208 3.186 45.135 3.186c24.928 0 45.135-8.909 45.135 1.062z" transform="translate(0 552.36)" stroke="#000" stroke-width="2" fill="#117a88"/>
+    <path id="path4658" style="color:#000000" d="m277.61 283.24a10.513 10.513 0 1 1 -21.026 0 10.513 10.513 0 1 1 21.026 0z" transform="translate(4.248 542.8)" stroke="#000" stroke-width="2" fill="#ff003c"/>
+    <path id="path4690" style="color:#000000" d="m485.87 314.89c0 8.0874-6.5562 14.644-14.644 14.644-8.0874 0-14.644-6.5562-14.644-14.644 0.6154-10.397 9.8212-16.488 19.481-13.821l-4.8375 13.821h14.644z" transform="matrix(-.47068 .88230 -.88230 -.47068 973.1 601.96)" stroke="#000" stroke-width="2" fill="#ff003c"/>
+    <path id="path4690-2" style="color:#000000" d="m485.87 314.89c0 8.0874-6.5562 14.644-14.644 14.644-8.0874 0-14.644-6.5562-14.644-14.644 0.6154-10.397 9.8212-16.488 19.481-13.821l-4.8375 13.821h14.644z" transform="matrix(.32291 -.94643 .94643 .32291 -365.46 1065.4)" stroke="#000" stroke-width="2" fill="#ff003c"/>
+    <path id="path4754" d="m207.78 106.53c-21.023 25.357-27.921 59.17-24.719 87.375 0 0 15.518-4.8621 35.312-10.531 0 0-9.4769-22.812-11.281-34.906-2.063-13.828 0.6875-41.938 0.6875-41.938z" fill-opacity=".31977" transform="translate(0 552.36)" stroke="#000" stroke-width=".2"/>
+    <path id="path4761" d="m195.41 214.31c11.071 48.498 0.85598 97.002-19.125 145.5 1.709 1.3843 3.416 2.6818 5.125 3.9062 0 0 9.4834-14.45 12.407-22.5 10.094-27.793 16.119-57.529 16.469-87.062 0.15-13.4-6.54-39.66-6.54-39.66-2.7809-0.0646-5.5717-0.11221-8.3438-0.1875z" fill-opacity=".31977" transform="translate(0 552.36)" stroke="#000" stroke-width=".2"/>
+    <path id="path4768" d="m71.375 163.19c-3.0562 9.208 2.2708 18.822 12 20.094-7.7915-6.6979-10.526-13.396-12-20.094z" fill-opacity=".31977" transform="translate(0 552.36)" stroke="#000" stroke-width=".2"/>
+    <path id="path4775" d="m467.53 303.78c-10.722 2.9708-13.543 16.372-3.3762 24.671-1.1765-5.6672-1.06-16.964 3.3762-24.671z" fill-opacity=".31977" transform="translate(0 552.36)" stroke="#000" stroke-width=".2"/>
+    <path id="path4782" d="m102.22 359.56c-0.90326 0.0969-1.8243 0.59125-2.7812 1.5-4.957 4.7073-3.9438 14.477 1.6562 25.281-0.14742-13.831 1.8001-20.853 4.4688-25.531-1.1234-0.90794-2.2263-1.3699-3.3438-1.25z" fill-opacity=".31977" transform="translate(0 552.36)" stroke="#000" stroke-width=".2"/>
+    <path id="path4786" d="m205.16 439.97c-2.8524-0.0473-4.4375 0.94565-4.4375 3.75 0 5.3906 5.9159 11.457 15.281 15.906 0.71452-6.498 2.1734-12.438 7.0938-15.781-7.7258-1.826-14.031-3.8102-17.938-3.875z" fill-opacity=".31977" transform="translate(0 552.36)" stroke="#000" stroke-width=".2"/>
+    <g id="g5866" stroke="#000" transform="matrix(.99987 .0164 -.0164 .99987 15.915 -7.7514)">
+      <path id="path4799" style="color:#000000" d="m290.21 725.94c-0.34407-12.544 3.934-24.853 8.1817-25.869 4.2477-1.0161 6.8565 9.6448 7.2006 22.189 0.004 0.13013 0.007 0.26053 0.01 0.39089 0 0-4.9788-2.6546-7.478-2.1685-2.7031 0.52563-7.9139 5.4574-7.9139 5.4574z" stroke-dashoffset="4.7277" stroke-width=".76449" fill="#a59e9e"/>
+      <path id="path5854" d="m291.85 158.37 3.5179 10.819" stroke-width=".5" fill="none" transform="translate(0 552.36)"/>
+      <path id="path5858" d="m298.96 147.88-0.0664 20.112" stroke-width=".5" fill="none" transform="translate(0 552.36)"/>
+      <path id="path5862" d="m304.46 157.3-2.9869 11.217" stroke-width=".5" fill="none" transform="translate(0 552.36)"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>RoboToon2</dc:title>
+        <dc:date>2010-10-11T06:00:38</dc:date>
+        <dc:description>cartoon, clip art, clipart, fun, robot, </dc:description>
+        <dc:source>http://openclipart.org/detail/89527/robotoon2-by-tjoepoe</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tjoepoe</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>fun</rdf:li>
+            <rdf:li>robot</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
